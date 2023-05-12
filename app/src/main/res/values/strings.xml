@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMusicApp</string>
+    <string name="cover">cover</string>
+    <string name="pause">pause</string>
+    <string name="play">play</string>
+    <string name="stop">stop</string>
+    <string name="back">back</string>
+</resources>
